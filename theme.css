@@ -3,6 +3,9 @@
   display: inline-block;
 }
 
+.contact-info li {
+    color: #ddd;
+}
 
 .mbr-brand--inline .mbr-brand__logo,
 .mbr-brand--inline .mbr-brand__name {
